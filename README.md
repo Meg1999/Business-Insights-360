@@ -10,7 +10,7 @@ This dashboard also aims to answer some of AtliQ's biggest questions, such as:
 </ul>
 
 # Live Dashboard
-Interact with the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiODdiNWM2YmItZGY1Zi00NzhkLWFjZWMtOGY0NGNlZjU1MWFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+Interact with the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNTdkZDlhYmYtOTdiMi00YWFmLTkxNDMtNGEyZGE2ZWE3ODhmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 # Features of this Dashboard
 <ul> <li><strong>Finance View:</strong> Access AtliQ's yearly P&L statements. Compare them with the previous year or given targets to identify gaps and areas of improvement.</li> <li><strong>Sales View:</strong> Analyze customer performance with KPIs such as Net Sales and Gross Margin.</li> <li><strong>Marketing View:</strong> Evaluate product performance along with their unit economics.</li> <li><strong>Supply Chain View:</strong> Understand AtliQ's inventory using metrics such as Forecast Accuracy, Absolute Error, and Risk.</li> <li><strong>Executive View:</strong> A high-level dashboard for executives that covers all dimensions of the business.</li> </ul>
